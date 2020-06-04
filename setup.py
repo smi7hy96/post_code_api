@@ -16,6 +16,5 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/smi7hy96/post_code_api",
     author="Ryan Smith",
-    license="MIT",
     install_requires=["requests"],
 )
