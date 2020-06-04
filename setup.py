@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="postcode_api",
+    name="postcode_api_app",
     version="1.0.0",
     description="Get Information about a PostCode!",
     long_description=README,
